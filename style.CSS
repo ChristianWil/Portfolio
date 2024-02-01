@@ -1,0 +1,43 @@
+
+
+body, h1, h2, h3, p {
+    margin: 1;
+    padding: 1;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.main-container {
+    text-align: center;
+    margin: 20px;
+}
+
+#MyWork {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#AboutMe {
+    color: #333;
+    text-align: left;
+}
+
+#ContactMe
+{
+    color: #007BFF;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
